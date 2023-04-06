@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anmarhaniv1" alt="anmarhaniv1" /></a> </p>
 
-- 🧳 I’m currently working on **nowhere just some projects**
-
 - 🔭 I’m currently trying to **Get up to date with newest technologies and frameworks.**
 
 - 🌐 My Personal Website is [https://anmarhani.vercel.app/](https://anmarhani.vercel.app/)

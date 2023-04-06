@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anmarhaniv1" alt="anmarhaniv1" /></a> </p>
 
-- 🔭 I’m currently working on **nowhere just some projects**
+- 🧳 I’m currently working on **nowhere just some projects**
 
 - 🔭 I’m currently trying to **Get up to date with newest technologies and frameworks.**
 
-- 👨‍💻 My Personal Website is [https://anmarhani.vercel.app/](https://anmarhani.vercel.app/)
+- 🌐 My Personal Website is [https://anmarhani.vercel.app/](https://anmarhani.vercel.app/)
 
 - 💬 You can ask me about **Software Development**
 
@@ -17,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/anmarhaniv1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="anmarhaniv1" height="30" width="40" /></a>
 <a href="https://twitter.com/anmarhaniv1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anmarhaniv1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anmar-hani-448b05224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anmar-hani-448b05224/" height="30" width="40" /></a>
 <a href="https://medium.com/@anmarhaniv1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anmarhaniv1" height="30" width="40" /></a>

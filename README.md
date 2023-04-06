@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmarhaniv1&label=Profile%20views&color=0e75b6&style=flat" alt="anmarhaniv1" /> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnmarHani)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🔭 I’m currently trying to **Get up to date with newest technologies and frameworks.**
 
 - 🌐 My Personal Website is [https://anmarhani.vercel.app/](https://anmarhani.vercel.app/)

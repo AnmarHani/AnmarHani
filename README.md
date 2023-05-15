@@ -5,6 +5,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnmarHani)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p><img align="center" width="315" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnmarHani&show_icons=true&theme=graywhite&locale=en&layout=compact hide_border=true"" alt="" /></p>
+
+
+
 - 🔭 I’m currently trying to **Get up to date with newest technologies and frameworks.**
 
 - 🌐 My Personal Website is [https://anmarhani.vercel.app/](https://anmarhani.vercel.app/)

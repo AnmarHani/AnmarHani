@@ -5,7 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnmarHani)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="center" width="315" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnmarHani&show_icons=true&theme=graywhite&locale=en&layout=compact hide_border=true"" alt="" /></p>
+<p>&nbsp;<img align="center" width="554" src="https://github-readme-stats.vercel.app/api?username=AnmarHani&theme=graywhite&locale=en&hide_border=true" alt="AnmarHani" /></p>
 
 
 

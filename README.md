@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently trying to **Get up to date with newest technologies and frameworks.**
 
-- 🌐 My Personal Website is [https://anmarhani.vercel.app/](https://anmarhani.vercel.app/)
+- 🌐 My Personal Website is [https://anmarhani.com/](https://anmarhani.com/)
 
 - 💬 You can ask me about **Software Development**
 
